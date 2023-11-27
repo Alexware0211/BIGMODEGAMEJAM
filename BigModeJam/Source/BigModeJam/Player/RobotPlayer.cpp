@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "Player/RobotPlayer.h"
+#include "RobotPlayer.h"
 
 // Sets default values
 ARobotPlayer::ARobotPlayer()

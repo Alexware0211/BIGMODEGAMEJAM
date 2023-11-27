@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\alen.forko\\documents\\projects\\bigmodegamejam\\bigmodejam\\source\\bigmodejam\\bigmodejam.cpp",
+        "Source": "c:\\users\\kristoffer.saxmo\\documents\\unreal projects\\bigmodegamejam\\bigmodegamejam\\bigmodejam\\source\\bigmodejam\\bigmodejam.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\alen.forko\\documents\\projects\\bigmodegamejam\\bigmodejam\\intermediate\\build\\win64\\x64\\bigmodejameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\kristoffer.saxmo\\documents\\unreal projects\\bigmodegamejam\\bigmodegamejam\\bigmodejam\\intermediate\\build\\win64\\x64\\bigmodejameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\alen.forko\\documents\\projects\\bigmodegamejam\\bigmodejam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bigmodejam\\definitions.bigmodejam.h",
-            "c:\\users\\alen.forko\\documents\\projects\\bigmodegamejam\\bigmodejam\\source\\bigmodejam\\bigmodejam.h"
+            "c:\\users\\kristoffer.saxmo\\documents\\unreal projects\\bigmodegamejam\\bigmodegamejam\\bigmodejam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bigmodejam\\definitions.bigmodejam.h",
+            "c:\\users\\kristoffer.saxmo\\documents\\unreal projects\\bigmodegamejam\\bigmodegamejam\\bigmodejam\\source\\bigmodejam\\bigmodejam.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

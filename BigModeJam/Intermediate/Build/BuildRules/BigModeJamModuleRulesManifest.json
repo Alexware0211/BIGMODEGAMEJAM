@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\alen.forko\\Documents\\Projects\\BIGMODEGAMEJAM\\BigModeJam\\Source\\BigModeJam\\BigModeJam.Build.cs",
-		"C:\\Users\\alen.forko\\Documents\\Projects\\BIGMODEGAMEJAM\\BigModeJam\\Source\\BigModeJam.Target.cs",
-		"C:\\Users\\alen.forko\\Documents\\Projects\\BIGMODEGAMEJAM\\BigModeJam\\Source\\BigModeJamEditor.Target.cs"
+		"C:\\Users\\kristoffer.saxmo\\Documents\\Unreal Projects\\BIGMODEGAMEJAM\\BIGMODEGAMEJAM\\BigModeJam\\Source\\BigModeJam\\BigModeJam.Build.cs",
+		"C:\\Users\\kristoffer.saxmo\\Documents\\Unreal Projects\\BIGMODEGAMEJAM\\BIGMODEGAMEJAM\\BigModeJam\\Source\\BigModeJam.Target.cs",
+		"C:\\Users\\kristoffer.saxmo\\Documents\\Unreal Projects\\BIGMODEGAMEJAM\\BIGMODEGAMEJAM\\BigModeJam\\Source\\BigModeJamEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

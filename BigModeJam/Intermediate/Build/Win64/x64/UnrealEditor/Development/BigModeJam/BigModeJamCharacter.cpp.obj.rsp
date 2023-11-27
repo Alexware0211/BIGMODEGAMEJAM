@@ -1,11 +1,11 @@
-"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Source\BigModeJam\BigModeJamCharacter.cpp"
-/FI"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\Definitions.BigModeJam.h"
-/Yu"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamCharacter.cpp.obj"
-/sourceDependencies "C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamCharacter.cpp.dep.json"
-@"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJam.Shared.rsp"
+"C:\Users\kristoffer.saxmo\Documents\Unreal Projects\BIGMODEGAMEJAM\BIGMODEGAMEJAM\BigModeJam\Source\BigModeJam\BigModeJamCharacter.cpp"
+/FI"C:\Users\kristoffer.saxmo\Documents\Unreal Projects\BIGMODEGAMEJAM\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\kristoffer.saxmo\Documents\Unreal Projects\BIGMODEGAMEJAM\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\Definitions.BigModeJam.h"
+/Yu"C:\Users\kristoffer.saxmo\Documents\Unreal Projects\BIGMODEGAMEJAM\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\kristoffer.saxmo\Documents\Unreal Projects\BIGMODEGAMEJAM\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\kristoffer.saxmo\Documents\Unreal Projects\BIGMODEGAMEJAM\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamCharacter.cpp.obj"
+/sourceDependencies "C:\Users\kristoffer.saxmo\Documents\Unreal Projects\BIGMODEGAMEJAM\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamCharacter.cpp.dep.json"
+@"C:\Users\kristoffer.saxmo\Documents\Unreal Projects\BIGMODEGAMEJAM\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJam.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
