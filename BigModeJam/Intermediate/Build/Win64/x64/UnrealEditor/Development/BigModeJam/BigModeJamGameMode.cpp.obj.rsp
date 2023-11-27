@@ -1,11 +1,11 @@
-"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Source\BigModeJam\BigModeJamGameMode.cpp"
-/FI"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\Definitions.BigModeJam.h"
-/Yu"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamGameMode.cpp.obj"
-/sourceDependencies "C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamGameMode.cpp.dep.json"
-@"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJam.Shared.rsp"
+"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Source\BigModeJam\BigModeJamGameMode.cpp"
+/FI"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\Definitions.BigModeJam.h"
+/Yu"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamGameMode.cpp.obj"
+/sourceDependencies "C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamGameMode.cpp.dep.json"
+@"C:\Users\alen.forko\Documents\Projects\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJam.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

@@ -11,6 +11,8 @@
     <None Include="..\..\Source\BigModeJamEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -52,6 +54,15 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\BigModeJam\BigModeJamGameMode.h">
       <Filter>Source\BigModeJam</Filter>
+    </ClInclude>
+    <Filter Include="Source\BigModeJam\Player">
+      <UniqueIdentifier>{5EED7C5F-BC07-3446-B963-97694D1C8668}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BigModeJam\Player\RobotPlayer.cpp">
+      <Filter>Source\BigModeJam\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BigModeJam\Player\RobotPlayer.h">
+      <Filter>Source\BigModeJam\Player</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
