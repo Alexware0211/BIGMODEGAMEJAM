@@ -1596,3 +1596,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.04% of total time (compiled  128 times, average 0.42 sec, max 0.82 sec, min 0.12 sec)
 [2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.02% of total time (compiled  128 times, average 0.41 sec, max 1.43 sec, min 0.29 sec)
 [2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display: ================================================
+[2023.11.27-19.41.17:684][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.41.17:739][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.27-19.41.17:749][505]LogSavePackage: Moving output files for package: /Game/Levels/KrippesLevel
+[2023.11.27-19.41.17:749][505]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/KrippesLevelCA43D5164F008A6574FC84A0493124FB.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/KrippesLevel.umap'
+[2023.11.27-19.41.17:755][505]LogFileHelpers: Saving map 'KrippesLevel' took 0.041
+[2023.11.27-19.41.17:762][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 687 ms)
+[2023.11.27-19.41.17:763][505]AssetCheck: New page: Asset Save: KrippesLevel
+[2023.11.27-19.41.17:763][505]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/KrippesLevel.KrippesLevel
+[2023.11.27-19.41.24:462][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.41.24:534][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.27-19.41.24:543][630]LogSavePackage: Moving output files for package: /Game/Levels/KrippesLevel
+[2023.11.27-19.41.24:544][630]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/KrippesLevelC68EF39C493C86042E8AD2854F3E1083.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/KrippesLevel.umap'
+[2023.11.27-19.41.24:549][630]LogFileHelpers: Saving map 'KrippesLevel' took 0.040
+[2023.11.27-19.41.24:555][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 781 ms)
+[2023.11.27-19.41.24:556][630]AssetCheck: New page: Asset Save: KrippesLevel
+[2023.11.27-19.41.24:556][630]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/KrippesLevel.KrippesLevel
