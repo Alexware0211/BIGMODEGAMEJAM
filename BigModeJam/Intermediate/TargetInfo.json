@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BigModeJam",
+			"Path": "..\\Source\\BigModeJam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BigModeJamEditor",
+			"Path": "..\\Source\\BigModeJamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

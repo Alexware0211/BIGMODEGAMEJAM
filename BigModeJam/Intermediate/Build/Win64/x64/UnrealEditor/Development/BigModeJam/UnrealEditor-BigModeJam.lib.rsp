@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BigModeJam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\BigModeJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJam.init.gen.cpp.obj"
+"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamCharacter.gen.cpp.obj"
+"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamGameMode.gen.cpp.obj"
+"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJam.cpp.obj"
+"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamCharacter.cpp.obj"
+"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\BigModeJamGameMode.cpp.obj"
+"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\Default.rc2.res"
+/OUT:"C:\Users\alexander.wahrensted\OneDrive - Change Maker Education\Dokument\Unreal Projects\bmgj\BIGMODEGAMEJAM\BigModeJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\BigModeJam\UnrealEditor-BigModeJam.lib"
