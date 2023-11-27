@@ -1372,3 +1372,227 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.27-19.15.10:482][554]LogLiveCoding: Error: Live coding failed, please see Live console for more information
 [2023.11.27-19.19.00:309][266]LogViewport: Scene viewport resized to 1014x411, mode Windowed.
 [2023.11.27-19.19.00:616][266]LogViewport: Scene viewport resized to 1526x639, mode Windowed.
+[2023.11.27-19.36.54:471][983]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.11.27-19.36.55:606][ 82]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.11.27-19.36.55:612][ 82]LogContentBrowser: Creating deferred item: NewWorld
+[2023.11.27-19.36.55:637][ 83]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.11.27-19.36.59:228][514]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2023.11.27-19.36.59:240][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.36.59:244][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.36.59:283][514]LogContentBrowser: End creating deferred item NewWorld
+[2023.11.27-19.37.00:067][599]LogObjectTools: Deleting 1 worlds: /Game/NewWorld.NewWorld
+[2023.11.27-19.37.00:067][599]LogObjectTools: Currently 4 active worlds: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2023.11.27-19.37.00:102][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.11.27-19.37.01:302][599]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.27-19.37.01:307][599]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.37.01:309][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.37.01:339][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.11.27-19.37.01:344][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.27-19.37.01:348][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.27-19.37.02:713][727]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.27-19.37.02:741][727]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.27-19.37.02:749][728]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.27-19.37.04:838][979]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2023.11.27-19.37.04:842][979]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.27-19.37.09:896][485]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.11.27-19.37.09:903][485]LogContentBrowser: Creating deferred item: NewWorld
+[2023.11.27-19.37.09:920][487]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.11.27-19.37.18:707][535]LogContentBrowser: Attempting asset rename: NewWorld -> AlensLevel
+[2023.11.27-19.37.18:708][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.37.18:708][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.37.18:710][535]LogContentBrowser: End creating deferred item NewWorld
+[2023.11.27-19.37.21:782][881]Cmd: EDIT COPY
+[2023.11.27-19.37.22:475][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.27-19.37.23:741][958]LogSlate: Window 'Save Content' being destroyed
+[2023.11.27-19.37.25:438][958]LogSlate: Window 'Message' being destroyed
+[2023.11.27-19.37.25:469][958]Message dialog closed, result: Ok, title: Message, text: The level you are trying to open needs to be saved first.
+[2023.11.27-19.37.25:473][959]LogAutomationController: Ignoring very large delta of 3.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.27-19.37.26:507][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.11.27-19.37.27:772][ 64]LogSlate: Window 'Save Content' being destroyed
+[2023.11.27-19.37.27:781][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.37.27:829][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.27-19.37.27:839][ 64]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006039 seconds
+[2023.11.27-19.37.27:850][ 64]LogSavePackage: Moving output files for package: /Game/Levels/AlensLevel
+[2023.11.27-19.37.27:850][ 64]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/AlensLevel4841248F40080271CDF4ADAABD46A3DD.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/AlensLevel.umap'
+[2023.11.27-19.37.27:860][ 64]LogFileHelpers: Saving map 'AlensLevel' took 0.038
+[2023.11.27-19.37.27:865][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms
+[2023.11.27-19.37.27:866][ 64]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/AlensLevel.AlensLevel
+[2023.11.27-19.37.27:868][ 64]Cmd: MAP LOAD FILE="../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/AlensLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.27-19.37.27:869][ 64]LightingResults: New page: Lighting Build
+[2023.11.27-19.37.27:870][ 64]LoadErrors: New page: Loading map: AlensLevel.umap
+[2023.11.27-19.37.27:943][ 64]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.37.27:945][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.37.27:950][ 64]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.11.27-19.37.27:950][ 64]MapCheck: New page: Map Check
+[2023.11.27-19.37.27:951][ 64]LightingResults: New page: Lighting Build
+[2023.11.27-19.37.27:955][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.37.27:965][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.11.27-19.37.27:967][ 64]LogWorld: UWorld::CleanupWorld for AlensLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.37.27:967][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.37.27:971][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.11.27-19.37.27:975][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.11.27-19.37.27:980][ 64]LogAudio: Display: Audio Device (ID: 1) registered with world 'AlensLevel'.
+[2023.11.27-19.37.27:981][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.37.27:981][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.37.27:983][ 64]LogAIModule: Creating AISystem for world AlensLevel
+[2023.11.27-19.37.28:013][ 64]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.27-19.37.28:023][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.27-19.37.28:027][ 64]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.27-19.37.28:029][ 64]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.328ms to complete.
+[2023.11.27-19.37.28:036][ 64]AssetCheck: New page: Asset Save: AlensLevel
+[2023.11.27-19.37.28:037][ 64]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/AlensLevel.AlensLevel
+[2023.11.27-19.37.30:763][374]Cmd: EDIT PASTE
+[2023.11.27-19.37.30:826][374]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.27-19.37.31:803][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.37.31:881][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.11.27-19.37.31:893][483]LogSavePackage: Moving output files for package: /Game/Levels/AlensLevel
+[2023.11.27-19.37.31:893][483]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/AlensLevelD8B144C44084CA4F42D17C92E6968230.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/AlensLevel.umap'
+[2023.11.27-19.37.31:900][483]LogFileHelpers: Saving map 'AlensLevel' took 0.046
+[2023.11.27-19.37.31:910][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 190 ms)
+[2023.11.27-19.37.31:911][483]AssetCheck: New page: Asset Save: AlensLevel
+[2023.11.27-19.37.31:911][483]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/AlensLevel.AlensLevel
+[2023.11.27-19.38.33:292][474]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.11.27-19.38.33:310][474]LogContentBrowser: Creating deferred item: NewWorld
+[2023.11.27-19.38.33:318][475]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.11.27-19.38.39:098][169]LogContentBrowser: Attempting asset rename: NewWorld -> KrippesLevel
+[2023.11.27-19.38.39:098][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.38.39:098][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.38.39:100][169]LogContentBrowser: End creating deferred item NewWorld
+[2023.11.27-19.38.41:291][388]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.11.27-19.38.41:297][388]LogContentBrowser: Creating deferred item: NewWorld
+[2023.11.27-19.38.41:306][389]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.11.27-19.38.42:935][585]LogContentBrowser: Attempting asset rename: NewWorld -> AlexLevel
+[2023.11.27-19.38.42:935][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.38.42:935][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.38.42:937][585]LogContentBrowser: End creating deferred item NewWorld
+[2023.11.27-19.38.48:179][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.38.48:243][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.27-19.38.48:253][183]LogSavePackage: Moving output files for package: /Game/Levels/AlensLevel
+[2023.11.27-19.38.48:254][183]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/AlensLevelC04E00A440B250B44782169772D58543.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/AlensLevel.umap'
+[2023.11.27-19.38.48:260][183]LogFileHelpers: Saving map 'AlensLevel' took 0.044
+[2023.11.27-19.38.48:266][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 276 ms)
+[2023.11.27-19.38.48:267][183]AssetCheck: New page: Asset Save: AlensLevel
+[2023.11.27-19.38.48:267][183]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/AlensLevel.AlensLevel
+[2023.11.27-19.38.49:383][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.27-19.38.50:324][307]LogSlate: Window 'Save Content' being destroyed
+[2023.11.27-19.38.50:332][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.38.50:370][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.27-19.38.50:373][307]LogSavePackage: Moving output files for package: /Game/Levels/AlexLevel
+[2023.11.27-19.38.50:373][307]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/AlexLevelD9E69A1C4052FB87434B6A88F7FB57AB.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/AlexLevel.umap'
+[2023.11.27-19.38.50:379][307]LogFileHelpers: Saving map 'AlexLevel' took 0.011
+[2023.11.27-19.38.50:382][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.27-19.38.50:384][307]LogSavePackage: Moving output files for package: /Game/Levels/KrippesLevel
+[2023.11.27-19.38.50:384][307]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/KrippesLevel04FB0D0A460C5D0B440D09B54D195A7F.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/KrippesLevel.umap'
+[2023.11.27-19.38.50:390][307]LogFileHelpers: Saving map 'KrippesLevel' took 0.011
+[2023.11.27-19.38.50:394][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 338 ms)
+[2023.11.27-19.38.50:394][307]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/AlexLevel.AlexLevel
+[2023.11.27-19.38.50:394][307]Cmd: MAP LOAD FILE="../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/AlexLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.27-19.38.50:394][307]LightingResults: New page: Lighting Build
+[2023.11.27-19.38.50:394][307]LoadErrors: New page: Loading map: AlexLevel.umap
+[2023.11.27-19.38.50:418][307]LogWorld: UWorld::CleanupWorld for AlensLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.38.50:418][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.38.50:418][307]MapCheck: New page: Map Check
+[2023.11.27-19.38.50:418][307]LightingResults: New page: Lighting Build
+[2023.11.27-19.38.50:421][307]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.38.50:423][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.27-19.38.50:424][307]LogWorld: UWorld::CleanupWorld for AlexLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.38.50:424][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.38.50:424][307]LogWorld: UWorld::CleanupWorld for KrippesLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.38.50:424][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.38.50:428][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.27-19.38.50:432][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.11.27-19.38.50:433][307]LogAudio: Display: Audio Device (ID: 1) registered with world 'AlexLevel'.
+[2023.11.27-19.38.50:433][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.38.50:433][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.38.50:434][307]LogAIModule: Creating AISystem for world AlexLevel
+[2023.11.27-19.38.50:443][307]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.27-19.38.50:447][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.11.27-19.38.50:450][307]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.27-19.38.50:450][307]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2023.11.27-19.38.50:458][307]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.27-19.38.50:458][307]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/AlexLevel.AlexLevel
+[2023.11.27-19.38.51:405][415]Cmd: EDIT PASTE
+[2023.11.27-19.38.51:441][415]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.27-19.38.52:384][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.27-19.38.53:235][519]LogSlate: Window 'Save Content' being destroyed
+[2023.11.27-19.38.53:244][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.38.53:301][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.11.27-19.38.53:310][519]LogSavePackage: Moving output files for package: /Game/Levels/AlexLevel
+[2023.11.27-19.38.53:311][519]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/AlexLevel86CB32C0412892A067C4368C69CA8CA4.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/AlexLevel.umap'
+[2023.11.27-19.38.53:317][519]LogFileHelpers: Saving map 'AlexLevel' took 0.041
+[2023.11.27-19.38.53:323][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 417 ms)
+[2023.11.27-19.38.53:356][519]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.38.53:356][519]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/KrippesLevel.KrippesLevel
+[2023.11.27-19.38.53:356][519]Cmd: MAP LOAD FILE="../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/KrippesLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.27-19.38.53:357][519]LightingResults: New page: Lighting Build
+[2023.11.27-19.38.53:357][519]LoadErrors: New page: Loading map: KrippesLevel.umap
+[2023.11.27-19.38.53:416][519]LogWorld: UWorld::CleanupWorld for AlexLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.38.53:416][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.38.53:416][519]MapCheck: New page: Map Check
+[2023.11.27-19.38.53:416][519]LightingResults: New page: Lighting Build
+[2023.11.27-19.38.53:419][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.38.53:421][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.27-19.38.53:422][519]LogWorld: UWorld::CleanupWorld for KrippesLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.38.53:422][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.38.53:425][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.11.27-19.38.53:429][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.11.27-19.38.53:431][519]LogAudio: Display: Audio Device (ID: 1) registered with world 'KrippesLevel'.
+[2023.11.27-19.38.53:431][519]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.38.53:431][519]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.38.53:431][519]LogAIModule: Creating AISystem for world KrippesLevel
+[2023.11.27-19.38.53:440][519]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.27-19.38.53:445][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.27-19.38.53:448][519]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.27-19.38.53:448][519]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2023.11.27-19.38.53:461][519]AssetCheck: New page: Asset Save: AlexLevel
+[2023.11.27-19.38.54:156][598]Cmd: EDIT PASTE
+[2023.11.27-19.38.54:193][598]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.27-19.38.54:798][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.38.54:866][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.27-19.38.54:876][661]LogSavePackage: Moving output files for package: /Game/Levels/KrippesLevel
+[2023.11.27-19.38.54:877][661]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/KrippesLevel7B309F244F5EE59931276E9CBA34A2B8.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/KrippesLevel.umap'
+[2023.11.27-19.38.54:884][661]LogFileHelpers: Saving map 'KrippesLevel' took 0.045
+[2023.11.27-19.38.54:892][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 511 ms)
+[2023.11.27-19.38.54:893][661]AssetCheck: New page: Asset Save: KrippesLevel
+[2023.11.27-19.38.54:893][661]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/KrippesLevel.KrippesLevel
+[2023.11.27-19.39.01:702][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.39.01:773][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.27-19.39.01:787][943]LogSavePackage: Moving output files for package: /Game/Levels/KrippesLevel
+[2023.11.27-19.39.01:788][943]LogSavePackage: Moving '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Saved/KrippesLevelAB0015DB4E5DE4DF58B941BCFE7992C7.tmp' to '../../../../../../Users/alen.forko/Documents/Projects/BIGMODEGAMEJAM/BigModeJam/Content/Levels/KrippesLevel.umap'
+[2023.11.27-19.39.01:795][943]LogFileHelpers: Saving map 'KrippesLevel' took 0.054
+[2023.11.27-19.39.01:801][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 609 ms)
+[2023.11.27-19.39.01:802][943]AssetCheck: New page: Asset Save: KrippesLevel
+[2023.11.27-19.39.01:802][943]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/KrippesLevel.KrippesLevel
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: ================================================
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Total job queries 3,695, among them cache hits 8 (0.22%)
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Tracking 3,680 distinct input hashes that result in 2,646 distinct outputs (71.90%)
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: RAM used: 67.86 MiB of 819.20 MiB budget. Usage: 8.28%
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Shaders Compiled: 3,680
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Jobs assigned 3,683, completed 3,680 (99.92%)
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Average time worker was idle: 16.21 s
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Time job spent in pending queue: average 66.04 s, longest 139.07 s
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Job execution time: average 3.48 s, max 16.07 s
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Job life time (pending + execution): average 69.57 s, max 142.82
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Shader code size: average 38.241 KiB, min 2.086 KiB, max 162.84 KiB
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 156.17 s
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Jobs were issued in 450 batches (only local compilation was used), average 8.18 jobs/batch
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Average processing rate: 23.56 jobs/sec
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Total thread time: 1,319.543 s
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Total thread preprocess time: 77.262 s
+[2023.11.27-19.39.02:741][ 35]LogShaderCompilers: Display: Percentage time preprocessing: 5.86%
+[2023.11.27-19.39.02:742][ 35]LogShaderCompilers: Display: Effective parallelization: 8.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 7.17 sec, max 12.05 sec, min 1.41 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.29 sec, max 5.69 sec, min 3.09 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.51 sec, max 2.88 sec, min 0.75 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled   12 times, average 1.27 sec, max 3.92 sec, min 0.10 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.26 sec, max 1.26 sec, min 1.26 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.30% of total time (compiled  134 times, average 1.21 sec, max 2.72 sec, min 0.99 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.66% of total time (compiled   96 times, average 0.78 sec, max 1.35 sec, min 0.47 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.64% of total time (compiled   96 times, average 0.64 sec, max 1.02 sec, min 0.14 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.04% of total time (compiled  128 times, average 0.42 sec, max 0.82 sec, min 0.12 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.02% of total time (compiled  128 times, average 0.41 sec, max 1.43 sec, min 0.29 sec)
+[2023.11.27-19.39.02:744][ 35]LogShaderCompilers: Display: ================================================
